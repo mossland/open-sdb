@@ -60,6 +60,15 @@ open-sdb/
 
 ```
 
+## 📚 Featured Research
+
+Detailed research documents regarding our core technologies and frameworks.
+
+* **Automated BIM Extraction Framework**
+    * BIM 데이터를 SDB 환경으로 자동 추출하기 위한 프레임워크 연구입니다.
+    * 📄 [Read in English](docs/research/automated-bim-extraction-framework.md)
+    * 📄 [한국어 문서 읽기](docs/research/automated-bim-extraction-framework.ko.md)
+
 ## 🚀 Roadmap
 
 * [ ] **Phase 1: Research & Analysis** - Analyzing legacy formats and defining integration protocols.
